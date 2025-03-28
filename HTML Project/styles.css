@@ -128,6 +128,9 @@ footer {
     left: 42%;
     width: 30%;
 }
+.text-box2 {
+    right: 20px;
+}
 
 .text-box p {
     font-size: 18px;
