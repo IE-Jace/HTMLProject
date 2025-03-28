@@ -60,7 +60,9 @@ nav ul li a:hover {
     max-width: 400px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
-
+.text-right{
+    float: right;
+}
 .text-box p, .video-text p {
     font-size: 18px;
     text-shadow: 2px 2px 4px black;
