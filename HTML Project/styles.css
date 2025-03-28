@@ -129,7 +129,10 @@ footer {
     width: 30%;
 }
 .text-box2 {
-    right: 20px;
+    position: absolute;
+    top: 20%
+    right: 42%;
+    width: 15%;
 }
 
 .text-box p {
